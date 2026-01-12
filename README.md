@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Sayan Ganguly
 
-<!--
-**sayan-ganguly-dev/sayan-ganguly-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student  
+💻 Aspiring Software Development Engineer (SDE)  
+🌱 Learning DSA, Web Development & Cloud  
+🎯 Goal: Crack a top SDE role
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C++, Java, Python
+- Data Structures & Algorithms, Dbms, Computer Network, Object Oriented Programming
+- HTML, CSS, JavaScript, React, NodeJs
+- Git & GitHub
+
+---
+
+## 📌 Currently Working On
+- DSA Practice (LeetCode)
+- Web Development Basics
+- JavaScript Mini Projects
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/sayan-ganguly-73b942288
+
+- Email: sayanganguly718@gmail.com
