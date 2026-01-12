@@ -16,9 +16,10 @@
 ---
 
 ## 📌 Currently Working On
-- DSA Practice (LeetCode)
-- Web Development Basics
-- JavaScript Mini Projects
+- Consistent DSA Practice
+- Learning Backend Development (APIs, Databases)
+- Implementing a real-world project to solve practical problems
+
 
 ---
 
