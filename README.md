@@ -4,7 +4,7 @@
 🔹 Strong focus on DSA, Problem Solving & Coding Interviews  
 🔹 Building scalable backend projects using MERN Stack  
 🔹 Learning System Design, APIs, Databases & Cloud Basics  
-🔹 Actively preparing for SDE roles (Amazon & Product Companies)  
+🔹 Actively preparing for SDE roles 
 
 
 ##  ◻️ Socials:
